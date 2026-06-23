@@ -1,8 +1,8 @@
-## Hi, this Mohd ali 😎
+## Hi, this Mohd ali bin jafarulla 😎
 
-**This repo contains my certification journey for the Cloud**
+**This repo contains my certification journey**
 
-**In this repo, I'm going to build my study notes and lab**
+**In this repo, I'm going to build my lab**
 
 -AWS 
 
